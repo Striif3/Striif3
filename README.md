@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Warren
 - 👀 I’m interested in software development, artificial intelligence, machine learning and data science. 
 - 🌱 I’m currently learning C# and improving my knowledge of Python, with a specific focus on data analysis.
-- 💞️ I’m looking to collaborate on anything, preferrably Pthon projects or game development projects. 
+- 💞️ I’m looking to collaborate on anything, preferrably Python projects or game development projects. 
 
 
 I have spent a fair amount of time learning and practicing:
