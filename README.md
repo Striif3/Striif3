@@ -12,7 +12,9 @@ Django, Game development(Unity, GMS2, MonoGame),
 C# (I could do with more practice),
 SQL/mySQL.
 
-I am also proficient and installing small to medium networks/server infrastructure but I have not been certified. I learned these skills out of necessity rather than to try make money. 
+I am also proficient at installing small to medium networks/server infrastructure, as well as certain hardware configurations, but I have not been certified. I learned these skills out of necessity rather than to try make money.
+
+I am also able to service and do certain repairs on all major consoles.
 
 <!---
 Striif3/Striif3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
