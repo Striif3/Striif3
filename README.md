@@ -10,7 +10,7 @@ LUA,
 Python/Jupyter (with a focus on data analysis),
 Django, Game development(Unity, GMS2, MonoGame),
 C# (I could do with more practice),
-SQL/mySQL.
+SQL/mySQL/PostgreSQL
 
 I am also proficient at installing small to medium networks/server infrastructure, as well as certain hardware configurations, but I have not been certified. I learned these skills out of necessity rather than to try make money.
 
